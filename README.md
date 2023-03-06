@@ -1,13 +1,12 @@
-## Calculator using javascript 
-Its a basic Calculator with all funtionality
-<br>
-[ LIVE DEMO ](https:// https://s-khan786.github.io/Simple-Calculator.github.io/)
-<br>
-### Tachnology use 
-- HTML5
-- CSS
-- Javascript
-<br>
-  
-### Special Thanks <br>
-[ wev dev simplified ](https://github.com/WebDevSimplified ) 
+Calculator App
+This is a simple calculator app built with HTML, CSS, and JavaScript.
+
+Features
+The calculator app supports the following operations:
+
+Addition
+Subtraction
+Multiplication
+Division
+Usage
+To use the calculator app, simply enter the numbers you want to calculate using the number buttons on the calculator. Then, click on the operation button (+, -, x, or ÷) to perform the calculation. The result will be displayed in the calculator's display area.
