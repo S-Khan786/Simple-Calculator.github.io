@@ -1,7 +1,7 @@
 ## Calculator using javascript 
 Its a basic Calculator with all funtionality
 <br>
-[ LIVE DEMO ](https://shohanurrahmanshohan.github.io/Calculator)
+[ LIVE DEMO ](https:// https://s-khan786.github.io/Simple-Calculator.github.io/)
 <br>
 ### Tachnology use 
 - HTML5
