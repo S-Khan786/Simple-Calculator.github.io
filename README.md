@@ -1,4 +1,4 @@
-Calculator App:
+<h1>Calculator App:</h1>
 
 This is a simple calculator app built with HTML, CSS, and JavaScript.
 
